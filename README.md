@@ -3,9 +3,7 @@ a repository investigating statistical concepts inside Rhino 3d using Python cod
 
 `#machine-learning` `#statistics` `#linear-algebra` `#applied-maths` `#3d` `#geometry`
 
-___
-
-### EXERCISE 1: LR vs PCA
+## Exercise 01: LR vs PCA
   - This is an exercise to check the difference in results between LR and PCA!
 
 <p align="center" width="100%">
