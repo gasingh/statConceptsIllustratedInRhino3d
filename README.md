@@ -169,8 +169,9 @@ a repository investigating statistical and machine learning concepts inside Rhin
   </p>
 </details>
 
-## 🌳 _course 03– YouTube Course on Covariances_ 
+## 🌳 _course 03– YouTube Courses on Covariances_ 
 - Completed **240422**
+- [Covariance, Clearly Explained!!! - YouTube by Josh Starmer/ StatQuest](https://www.youtube.com/watch?v=qtaqvPAeEJY)
 - [COVARIANCE AND VARIANCE - YouTube by Michel van Biezen](https://www.youtube.com/playlist?list=PLX2gX-ftPVXWHdoWSeshfEbRarb_LiX-e)
 - Understood the implementation of the Covariances and the general theory, by writing parallel code inside Rhino Python/ VSCode.
 
