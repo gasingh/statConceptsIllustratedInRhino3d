@@ -1,9 +1,9 @@
 # Statistical concepts illustrated in Rhino3d
 a repository investigating statistical and machine learning concepts inside Rhino 3d using native Python. This is an effort to visualise relevant concepts inside a 3d environment which is my homeground!
 
-`#machine-learning` `#statistics` `#linear-algebra` `#applied-maths` `#3d` `#geometry`
+`#machine-learning` `#statistics` `#linear-algebra` `#applied-maths` `#3d` `#geometry`#
 
-## _course 01- DataCamp Course on Statistics_ 
+## 🌳 <span style="color: green"> course 01– DataCamp Course on Statistics  </span>
 
   - Completed **240108**
   - Coded the Numpy Course in Google Colab.
@@ -15,7 +15,7 @@ a repository investigating statistical and machine learning concepts inside Rhin
   </p>
 </details>  
 
-## Exercise 01: LR using SSD
+## 🎅🏼 Exercise 01: LR using SSD
   - Completed **240202**
   - This is an exercise to estimate Linear Regression using a Sum of Square Distances Method!
   - Inspired by the YouTube videos by Josh Starmer/ StatQuest
@@ -47,7 +47,7 @@ a repository investigating statistical and machine learning concepts inside Rhin
 
 </details>
   
-## Exercise 02: Visualizing Activation Functions
+## 🎅🏼 Exercise 02: Visualizing Activation Functions
   - Completed **240206**
   - This is an exercise to visualize various activation functions using Python inside Rhino 3d!
   - Files [here](https://github.com/gasingh/statConceptsIllustratedInRhino3d/tree/main/240206_ActivationFunctions_visualized).
@@ -75,7 +75,7 @@ a repository investigating statistical and machine learning concepts inside Rhin
 
 </details>
   
-## Exercise 03: Central Limit Theorem
+## 🎅🏼 Exercise 03: Central Limit Theorem
   -  Completed **240207**
   - This is an exercise to check if the Central Limit Theory really makes that dinosaur like bell-curve! So i wrote a small die-roll program, and a mean-frequency table visualizer. This was during a course i attended on DataCamp on Statistics.
     - The idea is that we compute the mean die-roll number from a die-rolled 5 times! Then we compute a frequency table on the mean values computed.
@@ -158,7 +158,7 @@ a repository investigating statistical and machine learning concepts inside Rhin
   </p>
 </details>
 
-## _course 02- DataCamp Course on NumPy_
+## 🌳 _course 02– DataCamp Course on NumPy_
   -  Completed **240204**
   - [DataCamp: Introduction to Numpy | Statement of Accomplishment](https://www.datacamp.com/completed/statement-of-accomplishment/course/20278b4dde94bfec43776b87f85605c02e9487bf
   - Coded all the exercises and concepts in Google Colab.
@@ -169,7 +169,7 @@ a repository investigating statistical and machine learning concepts inside Rhin
   </p>
 </details>
 
-## _course 03- YouTube Course on Covariances_ 
+## 🌳 _course 03– YouTube Course on Covariances_ 
 - Completed **240422**
 - [COVARIANCE AND VARIANCE - YouTube by Michel van Biezen](https://www.youtube.com/playlist?list=PLX2gX-ftPVXWHdoWSeshfEbRarb_LiX-e)
 - Understood the implementation of the Covariances and the general theory, by writing parallel code inside Rhino Python/ VSCode.
@@ -180,9 +180,9 @@ a repository investigating statistical and machine learning concepts inside Rhin
   </p>
 </details>
 
-## Exercise 04: LR vs PCA
-  - This is an exercise to check the difference in results between LR and PCA!
+## 🎅🏼 Exercise 04: LR vs PCA
   - Completed **240430**
+  - This is an exercise to check the difference in results between LR and PCA!
 
 <details>  <summary> Project Slides </summary>
 
