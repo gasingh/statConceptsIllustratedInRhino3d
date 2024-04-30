@@ -170,10 +170,10 @@ a repository investigating statistical and machine learning concepts inside Rhin
 
 ## _course 03- YouTube Course on Covariances_ 
 - Completed **240422**
+- [COVARIANCE AND VARIANCE - YouTube by Michel van Biezen](https://www.youtube.com/playlist?list=PLX2gX-ftPVXWHdoWSeshfEbRarb_LiX-e)
 - Understood the implementation of the Covariances and the general theory, by writing parallel code inside Rhino Python/ VSCode.
 
-<details>  <summary> Course Details </summary>  
-[COVARIANCE AND VARIANCE - YouTube by Michel van Biezen](https://www.youtube.com/playlist?list=PLX2gX-ftPVXWHdoWSeshfEbRarb_LiX-e)
+<details>  <summary> Course Badge </summary>  
   <p align="center" width="100%">
   <img src="https://i.ytimg.com/vi/TokBo_2yhN8/hqdefault.jpg"  width="350"/>  </br>
   </p>
