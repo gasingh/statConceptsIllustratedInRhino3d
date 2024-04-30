@@ -161,7 +161,7 @@ a repository investigating statistical and machine learning concepts inside Rhin
 ## _course 02- DataCamp Course on NumPy_
   -  Completed **240204**
   - [DataCamp: Introduction to Numpy | Statement of Accomplishment](https://www.datacamp.com/completed/statement-of-accomplishment/course/20278b4dde94bfec43776b87f85605c02e9487bf
-  - Coded all the exercises,and concepts in Google Colab.
+  - Coded all the exercises and concepts in Google Colab.
 
 <details>  <summary> Completion Badge </summary>
   <p align="center" width="100%">
