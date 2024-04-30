@@ -3,7 +3,7 @@ a repository investigating statistical and machine learning concepts inside Rhin
 
 `#machine-learning` `#statistics` `#linear-algebra` `#applied-maths` `#3d` `#geometry`
 
-## _DataCamp Course on Statistics_ 
+## _course 01- DataCamp Course on Statistics_ 
 
   - Completed **240108**
   - Coded the Numpy Course in Google Colab.
@@ -158,7 +158,7 @@ a repository investigating statistical and machine learning concepts inside Rhin
   </p>
 </details>
 
-## _DataCamp Course on NumPy_
+## _course 02- DataCamp Course on NumPy_
   -  Completed **240204**
   - [DataCamp: Introduction to Numpy | Statement of Accomplishment](https://www.datacamp.com/completed/statement-of-accomplishment/course/20278b4dde94bfec43776b87f85605c02e9487bf)
 
@@ -168,6 +168,16 @@ a repository investigating statistical and machine learning concepts inside Rhin
   </p>
 </details>
 
+## _course 03- YouTube Course on Covariances_ 
+- Completed **240422**
+- Understood the implementation of the Covariances and the general theory, by writing parallel code inside Rhino Python/ VSCode.
+
+<details>  <summary> Course Details </summary>  
+[COVARIANCE AND VARIANCE - YouTube by Michel van Biezen](https://www.youtube.com/playlist?list=PLX2gX-ftPVXWHdoWSeshfEbRarb_LiX-e)
+  <p align="center" width="100%">
+  <img src="https://i.ytimg.com/vi/TokBo_2yhN8/hqdefault.jpg"  width="350"/>  </br>
+  </p>
+</details>
 
 ## Exercise 04: LR vs PCA
   - This is an exercise to check the difference in results between LR and PCA!
