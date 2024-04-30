@@ -6,7 +6,7 @@ A repository investigating statistical and machine learning concepts inside Rhin
 ## 🌳 <span style="color: green"> course 01– DataCamp Course on Statistics  </span>
 
   - Completed **240108**
-  - Coded the Numpy Course in Google Colab.
+  - Made notes of the Statistics Course using Notion.
   - [DataCamp: Introduction to Statistics | Statement of Accomplishment](https://www.datacamp.com/completed/statement-of-accomplishment/course/9cd552e42463003e79fa5f40844d5ab85468323c)
 
 <details>  <summary> Completion Badge </summary>
