@@ -78,9 +78,9 @@ a repository investigating statistical and machine learning concepts inside Rhin
 ## Exercise 03: Central Limit Theorem
   -  Completed **240207**
   - This is an exercise to check if the Central Limit Theory really makes that dinosaur like bell-curve! So i wrote a small die-roll program, and a mean-frequency table visualizer. This was during a course i attended on DataCamp on Statistics.
-  - The idea is that we compute the mean die-roll number from a die-rolled 5 times! Then we compute a frequency table on the mean values computed.
-  - The first set of Slides is visualizing 5 Die Rolls per 100 sets.
-  - The second set of Slides zooms out further, to gather a more generalized distribution. So this is visualizing 1000 die rolls of 10 means of 5 die rolls each! 
+    - The idea is that we compute the mean die-roll number from a die-rolled 5 times! Then we compute a frequency table on the mean values computed.
+    - The first set of Slides is visualizing 5 Die Rolls per 100 sets.
+    - The second set of Slides zooms out further, to gather a more generalized distribution. So this is visualizing 1000 die rolls of 10 means of 5 die rolls each! 
   - Files [here](https://github.com/gasingh/statConceptsIllustratedInRhino3d/tree/main/240207_CentralLimitTheorem_visualized-by-DieRolls).
 
 <details>  <summary> Project Slides-1 </summary>
