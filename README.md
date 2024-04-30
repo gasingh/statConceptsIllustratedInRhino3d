@@ -1,7 +1,7 @@
 # Statistical concepts illustrated in Rhino3d
-a repository investigating statistical and machine learning concepts inside Rhino 3d using native Python. This is an effort to visualise relevant concepts inside a 3d environment which is my homeground!
+A repository investigating statistical and machine learning concepts inside Rhino 3d using native Python. This is an effort to visualise relevant concepts inside a 3d environment which is my homeground!
 
-`#machine-learning` `#statistics` `#linear-algebra` `#applied-maths` `#3d` `#geometry`#
+`#machine-learning` `#statistics` `#linear-algebra` `#applied-maths` `#3d` `#geometry`
 
 ## 🌳 <span style="color: green"> course 01– DataCamp Course on Statistics  </span>
 
