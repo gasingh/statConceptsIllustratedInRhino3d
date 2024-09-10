@@ -3,7 +3,19 @@ A repository investigating statistical and machine learning concepts inside Rhin
 
 `#machine-learning` `#statistics` `#linear-algebra` `#applied-maths` `#3d` `#geometry`
 
-## 🌳 <span style="color: green"> course 01– DataCamp Course on Statistics  </span>
+| 🌳 / 🎅🏼 | Course / Implementation  | Completion |
+| ----- | ------------- | ------------- |
+| 🌳 | Course 01– DataCamp Course on Statistics  | 240108  |
+| 🎅🏼 | Exercise 01: LR using SSD  | 240202  |
+| 🎅🏼 | Exercise 02: Visualizing Activation Functions  | 240206  |
+| 🎅🏼 | Exercise 03: Central Limit Theorem  | 240207  |
+| 🌳 | Course 02– DataCamp Course on NumPy  | 240204  |
+| 🌳 | Course 03– 2 YouTube Courses on Covariances  | 240422  |
+| 🎅🏼 | Exercise 04: LR vs PCA |240430 | 
+
+
+
+## 🌳 <span style="color: green"> Course 01– DataCamp Course on Statistics  </span>
 
   - Completed **240108**
   - Made notes of the Statistics Course using Notion.
@@ -158,7 +170,7 @@ A repository investigating statistical and machine learning concepts inside Rhin
   </p>
 </details>
 
-## 🌳 _course 02– DataCamp Course on NumPy_
+## 🌳 _Course 02– DataCamp Course on NumPy_
   -  Completed **240204**
   - [DataCamp: Introduction to Numpy | Statement of Accomplishment](https://www.datacamp.com/completed/statement-of-accomplishment/course/20278b4dde94bfec43776b87f85605c02e9487bf)
   - Coded all the exercises and concepts in Google Colab.
@@ -169,7 +181,7 @@ A repository investigating statistical and machine learning concepts inside Rhin
   </p>
 </details>
 
-## 🌳 _course 03– YouTube Courses on Covariances_ 
+## 🌳 _Course 03– YouTube Courses on Covariances_ 
 - Completed **240422**
 - [Covariance, Clearly Explained!!! - YouTube by Josh Starmer/ StatQuest](https://www.youtube.com/watch?v=qtaqvPAeEJY)
 - [COVARIANCE AND VARIANCE - YouTube by Michel van Biezen](https://www.youtube.com/playlist?list=PLX2gX-ftPVXWHdoWSeshfEbRarb_LiX-e)
